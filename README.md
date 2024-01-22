@@ -1,0 +1,2 @@
+# js.qns
+javaScript questions
